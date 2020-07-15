@@ -1,2 +1,3 @@
 # Asteroid!!!
-###### Welcome to a directory, for me!
+
+There's nothing much to be told here ;)
